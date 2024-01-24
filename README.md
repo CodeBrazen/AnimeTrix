@@ -127,6 +127,6 @@ Distributed under the Apache License 2.0 . See [LICENSE](https://github.com/Shiv
 
 ## Authors
 
-* **Code Brazen** - [Shiva Bhattacharjee](https://github.com/CodeBrazen) - *AnimeTrix*
+* **Code Brazen** - [Code Brazen](https://github.com/CodeBrazen) - *AnimeTrix*
 
 
